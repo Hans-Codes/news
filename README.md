@@ -10,6 +10,7 @@ This is a console-based application that provides weather updates and news about
 - Customizable configuration through a JSON file
 - Supports any valid location
 - Clean and organized console output
+- Uses [OpenWeatherMap](https://openweathermap.org) and [News API](https://newsapi.org/), which are both free to use.
 
 ## Requirements
 - Python 3.x
