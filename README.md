@@ -28,7 +28,7 @@ This is a console-based application that provides weather updates and news about
     ```
     
 ## Configuration
-You can setup your API keys and preferences such as what category of news to check, how many days of weather forecasts, what to show in the weather update, inside the config.json file.
+You can setup your API keys and preferences such as what category of news to check, how many days of weather forecasts, what to show in the weather update, update interval inside the config.json file.
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, you can do so in the following ways:
