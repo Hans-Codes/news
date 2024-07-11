@@ -1,0 +1,27 @@
+{
+    "api_keys": {
+      "openweathermap": "OpenWeatherMap_API_Key",
+      "newsapi": "News_API_Key"
+    },
+    "update_interval": 10,
+    "weather": {
+      "enabled": true,
+      "show_time": true,
+      "show_temperature": true,
+      "show_description": true,
+      "show_humidity": true,
+      "show_wind_speed": true,
+      "show_forecast": true,
+      "forecast_days": 3
+    },
+    "news": {
+      "general": true,
+      "sports": false,
+      "technology": true,
+      "business": false,
+      "entertainment": false,
+      "health": false,
+      "science": false,
+      "show_links": true
+    }
+  }
