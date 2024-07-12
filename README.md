@@ -15,15 +15,20 @@ This is a console-based application that provides weather updates and news about
 ## Requirements
 - Python 3.x
 - Requests library
+- GeoPy library
+- timezonefinder library
+- pytz library
 
 ## Setup
 1. Clone or download the repository.
-2. Navigate to the project directory.
-3. Install the required dependencies:
+2. Open the folder and configure the config.json file.
+3. Open Command Prompt.
+4. Navigate to the project directory.
+5. Install the required dependencies:
     ```
-    pip install requests
+    pip install requests geopy timezonefinder pytz
     ```
-4. Run the app
+6. Run the application:
     ```
     python main.py
     ```
